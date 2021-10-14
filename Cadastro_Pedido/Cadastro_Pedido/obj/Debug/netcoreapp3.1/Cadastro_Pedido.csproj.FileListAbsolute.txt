@@ -1,0 +1,14 @@
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\bin\Debug\netcoreapp3.1\Cadastro_Pedido.exe
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\bin\Debug\netcoreapp3.1\Cadastro_Pedido.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\bin\Debug\netcoreapp3.1\Cadastro_Pedido.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\bin\Debug\netcoreapp3.1\Cadastro_Pedido.runtimeconfig.dev.json
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\bin\Debug\netcoreapp3.1\Cadastro_Pedido.dll
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\bin\Debug\netcoreapp3.1\Cadastro_Pedido.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\obj\Debug\netcoreapp3.1\Cadastro_Pedido.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\obj\Debug\netcoreapp3.1\Cadastro_Pedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\obj\Debug\netcoreapp3.1\Cadastro_Pedido.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\obj\Debug\netcoreapp3.1\Cadastro_Pedido.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\obj\Debug\netcoreapp3.1\Cadastro_Pedido.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\obj\Debug\netcoreapp3.1\Cadastro_Pedido.dll
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\obj\Debug\netcoreapp3.1\Cadastro_Pedido.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\Cadastro_Pedido\Cadastro_Pedido\obj\Debug\netcoreapp3.1\Cadastro_Pedido.genruntimeconfig.cache
