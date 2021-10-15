@@ -1,0 +1,14 @@
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\bin\Debug\netcoreapp3.1\CalculoContribuinte.exe
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\bin\Debug\netcoreapp3.1\CalculoContribuinte.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\bin\Debug\netcoreapp3.1\CalculoContribuinte.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\bin\Debug\netcoreapp3.1\CalculoContribuinte.runtimeconfig.dev.json
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\bin\Debug\netcoreapp3.1\CalculoContribuinte.dll
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\bin\Debug\netcoreapp3.1\CalculoContribuinte.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\obj\Debug\netcoreapp3.1\CalculoContribuinte.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\obj\Debug\netcoreapp3.1\CalculoContribuinte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\obj\Debug\netcoreapp3.1\CalculoContribuinte.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\obj\Debug\netcoreapp3.1\CalculoContribuinte.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\obj\Debug\netcoreapp3.1\CalculoContribuinte.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\obj\Debug\netcoreapp3.1\CalculoContribuinte.dll
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\obj\Debug\netcoreapp3.1\CalculoContribuinte.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\projetos\c#.net\CalculoContribuinte\CalculoContribuinte\obj\Debug\netcoreapp3.1\CalculoContribuinte.genruntimeconfig.cache
